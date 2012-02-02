@@ -1,4 +1,4 @@
-This is for the more advanced users, a little extra information for tweaking etc.
+*This is for the more advanced users, a little extra information for tweaking etc.*
 
 =Button Configuration=
 As can be seen in the configuration image, currently the hotkeys are triggered by the default xbox controller buttons assigned to video playback on an xbox plus a few extras. Many other buttons are available to be coded, feel free to experiment. (The codes for the controller buttons are all listed here: http://glovepie.org/w/index.php?title=Preliminary_Documentation_v0.43#XBox360_Controller)
