@@ -21,4 +21,4 @@ where _mypath_ is the location of the script you downloaded
 
 -Subtitle position movement will only work if you have manually assigned Shift + Up to -subtitle up and Shift + Down to subtitle down.
 
--Startup script shortcut will only work if you have placed the GlovePIE .ink shortcut the Startup folder in the Start Menu and also extracted GlovePie to the recommended location (C:\Program Files\GlovePIE)
+-Startup script shortcut will only work if you have placed the GlovePIE.ink shortcut the Startup folder in the Start Menu and also extracted GlovePie to the recommended location (C:\Program Files\GlovePIE)
